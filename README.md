@@ -48,6 +48,6 @@
 	<details>
    	<summary><strong>main HW</strong></summary>
 	- python
-     -  Solved.ac Class 1문제 [Solved](https://solved.ac/) (36문제) 
+     		-  **Solved.ac Class 1문제들** [Solved](https://solved.ac/) (36문제) https://solved.ac/
    	</details>
    
