@@ -46,5 +46,5 @@
 - **과제 공지**
 	- Python 문제 풀기
 	- python
-		- **Solved.ac Class 1문제들** [Solved](https://solved.ac/) (36문제)
+		- **Solved.ac Class 1문제들** [백준](https://www.acmicpc.net/) (36문제)
    
