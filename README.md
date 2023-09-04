@@ -38,16 +38,13 @@
 
 
 ## 스터디 커리큘럼
+---
 ### 1주차: OT
 - **스터디 진행**
    - 스터디 진행 방향 회의 및 결정
     
 - **과제 공지**
 	- Python 문제 풀기
-	
-	<details>
-   	<summary><strong>main HW</strong></summary>
 	- python
-     		-  **Solved.ac Class 1문제들** [Solved](https://solved.ac/) (36문제) https://solved.ac/
-   	</details>
+		- **Solved.ac Class 1문제들** [Solved](https://solved.ac/) (36문제)
    
