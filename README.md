@@ -60,5 +60,5 @@
 	- 승범 : 그리디 알고리즘 준비
  -  **과제**
  	- Python 문제 풀기
-     	- **백준 시간복잡도 문제들** [벡준](https://www.acmicpc.net/step/11)(11문제)    
+     	- **백준 스택, 큐, 덱 문제들** [벡준](https://www.acmicpc.net/step/11)(11문제)    
    
