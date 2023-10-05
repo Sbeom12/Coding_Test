@@ -67,6 +67,7 @@
 	- 승범 : 구현 알고리즘 준비
  -  **과제**
  	- Python 문제 풀기
-     	- **그리디 알고리즘** [벡준](https://www.acmicpc.net/step/33)(5문제)
-		[프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
+     	- **그리디 알고리즘** [벡준](https://www.acmicpc.net/step/33)(5문제)  
+	
+		- **그리디 알고리즘** [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/42862)(1문제)
    
