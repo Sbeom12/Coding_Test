@@ -76,6 +76,6 @@
 	- 지원 : DFS/BFS 알고리즘 준비
  -  **과제**
  	- Python 문제 풀기
-     	- **그리디 알고리즘** [벡준](https://www.acmicpc.net/step/22)(5문제)
+     	- **브루트포스 알고리즘** [벡준](https://www.acmicpc.net/step/22)(5문제)
       	- **완전탐색 알고리즘** [프로그래머스](https://school.programmers.co.kr/learn/courses/30/parts/12230)[7문제]
 
