@@ -79,3 +79,11 @@
      	- **브루트포스 알고리즘** [벡준](https://www.acmicpc.net/step/22)(5문제)
       	- **완전탐색 알고리즘** [프로그래머스](https://school.programmers.co.kr/learn/courses/30/parts/12230)[7문제]
 
+### 6주차:  알고리즘
+- **스터디 진행**
+	- 지예 : 정렬 알고리즘 준비
+ -  **과제**
+ 	- Python 문제 풀기
+     	- **그래프와 순회 단계** [벡준](https://www.acmicpc.net/step/24)(5문제)
+
+
