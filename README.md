@@ -84,6 +84,6 @@
 	- 지예 : 정렬 알고리즘 준비
  -  **과제**
  	- Python 문제 풀기
-     	- **그래프와 순회 단계** [벡준](https://www.acmicpc.net/step/24)(5문제)
+     	- **그래프와 순회 단계** [벡준](https://www.acmicpc.net/step/24)(16문제)
 
 
