@@ -91,6 +91,6 @@
 	- 지원 : 이진 탐색 알고리즘 준비
  -  **과제**
  	- Python 문제 풀기
-     	- **그래프와 순회 단계** [벡준](https://www.acmicpc.net/step/9)(11문제)
+     	- **정렬 단계** [벡준](https://www.acmicpc.net/step/9)(11문제)
 
 
