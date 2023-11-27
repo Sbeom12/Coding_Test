@@ -98,6 +98,6 @@
 	- 승범 : 다이나믹 프로그래밍(DP) 준비
  -  **과제**
  	- Python 문제 풀기
-     	- **정렬 단계** [벡준](https://www.acmicpc.net/step/29)(7문제)
+     	- **이진 탐색 알고리즘 단계** [벡준](https://www.acmicpc.net/step/29)(7문제)
 
 
