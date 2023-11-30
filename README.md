@@ -99,5 +99,9 @@
  -  **과제**
  	- Python 문제 풀기
      	- **이진 탐색 알고리즘 단계** [벡준](https://www.acmicpc.net/step/29)(7문제)
+      -  
+### 9주차: DP 알고리즘
+ -  **과제**
+     	- ** 동적 계획법1 단계** [벡준](https://www.acmicpc.net/step/16)(7문제)
 
 
