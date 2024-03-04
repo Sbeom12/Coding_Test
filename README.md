@@ -16,7 +16,8 @@
 
 #### 📌 코딩스터디
 <details>  
-<summary>1차</summary>
+<summary>1차</summary>  
+
 - 주 1회 진행
 - 진행방식
   - **Python 기초** : 스터디원들이 기존에 공부했던 Python 내용에 대해 복습 및 기초 실력을 위함. 어려운 문제는 본인이 작성 
